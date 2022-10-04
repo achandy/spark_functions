@@ -1,4 +1,4 @@
-#Spark Functions
+# Spark Functions
 
 Repository to test out and practice Spark functionalities
 
